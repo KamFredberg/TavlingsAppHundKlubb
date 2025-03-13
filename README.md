@@ -1,2 +1,2 @@
 # TavlingsAppHundKlubb
-Tävlings app för hundklubb
+Tävlingsapp för hundklubb
